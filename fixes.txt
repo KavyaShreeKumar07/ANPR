@@ -1,0 +1,4 @@
+!_src.empty() in function 'cvtColor'
+https://stackoverflow.com/questions/52676020/imread-returns-none-violating-assertion-src-empty-in-function-cvtcolor-er
+https://stackoverflow.com/questions/54796590/module-cv2-cv2-has-no-attribute-color-bgr2grey
+https://stackoverflow.com/questions/27835619/urllib-and-ssl-certificate-verify-failed-error
